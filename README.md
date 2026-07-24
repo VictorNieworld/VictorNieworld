@@ -110,12 +110,12 @@ Backend-focused developer building automation systems for Discord communities an
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <a href="https://stats.deno.dev/?username=notvictornw&theme=dark&show_icons=true&hide_border=true&bg_color=09090B&title_color=00E5FF&icon_color=8B5CF6&text_color=A1A1AA">
-    <img src="https://stats.deno.dev/?username=notvictornw&theme=dark&show_icons=true&hide_border=true&bg_color=09090B&title_color=00E5FF&icon_color=8B5CF6&text_color=A1A1AA" alt="GitHub Stats" />
+  <a href="https://github.com/notvictornw">
+    <img src="https://github-stats-extended.vercel.app/api?username=notvictornw&show_icons=true&theme=dark&hide_border=true&bg_color=09090B&title_color=00E5FF&icon_color=8B5CF6&text_color=A1A1AA" alt="GitHub Stats" />
   </a>
   <br/>
-  <a href="https://stats.deno.dev/top-langs/?username=notvictornw&layout=compact&theme=dark&hide_border=true&bg_color=09090B&title_color=00E5FF&text_color=A1A1AA">
-    <img src="https://stats.deno.dev/top-langs/?username=notvictornw&layout=compact&theme=dark&hide_border=true&bg_color=09090B&title_color=00E5FF&text_color=A1A1AA" alt="Top Languages" />
+  <a href="https://github.com/notvictornw">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=notvictornw&layout=compact&theme=dark&hide_border=true&bg_color=09090B&title_color=00E5FF&text_color=A1A1AA" alt="Top Languages" />
   </a>
 </div>
 
@@ -146,8 +146,11 @@ Async  > Blocked
 <a href="https://github.com/notvictornw" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-notvictornw-0D1117?style=for-the-badge&logo=github&logoColor=FAFAFA&labelColor=161B22" alt="GitHub" />
 </a>
-<a href="https://discord.com/users/notvictornw" target="_blank">
+<a href="https://discord.com/users/1409288157148745949" target="_blank">
   <img src="https://img.shields.io/badge/Discord-notvictornw-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=404EED" alt="Discord" />
+</a>
+<a href="https://discord.gg/9EqSdYTyCK" target="_blank">
+  <img src="https://img.shields.io/badge/Discord_Server-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=404EED" alt="Discord Server" />
 </a>
 <a href="mailto:notvictornw.dev@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-notvictornw.dev@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=C5221F" alt="Email" />
