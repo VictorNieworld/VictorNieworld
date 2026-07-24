@@ -65,7 +65,7 @@ Backend-focused developer building automation systems for Discord communities an
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🎨 <a href="https://github.com/notvictornw/Equicord-Themes">Equicord-Themes</a></h3>
+      <h3 align="center">🖌️ <a href="https://github.com/notvictornw/Equicord-Themes">Equicord-Themes</a></h3>
       <p align="center">Coleção de temas CSS para o cliente <b>Equicord</b> (fork do Vencord). Cada tema em pasta própria com README descritivo e atualização automática (<code>@updateUrl</code>) — instala uma vez e o Equicord puxa as mudanças do GitHub sozinho.</p>
       <p align="center"><sub>FolderColumns · OperaGX</sub></p>
       <p align="center">
@@ -73,21 +73,21 @@ Backend-focused developer building automation systems for Discord communities an
           <img src="https://img.shields.io/badge/Status-Live-22C55E?style=flat-square&logo=github&logoColor=white" alt="Status" />
         </a>
         <a href="https://github.com/notvictornw/Equicord-Themes">
-          <img src="https://img.shields.io/badge/Repo-Equicord_Themes-00E5FF?style=flat-square&logo=github&logoColor=09090B" alt="Repo" />
+          <img src="https://img.shields.io/badge/Repo-Equicord_Themes-8B5CF6?style=flat-square&logo=github&logoColor=white" alt="Repo" />
         </a>
         <img src="https://img.shields.io/badge/Visibility-Public-22C55E?style=flat-square&logoColor=white" alt="Visibility" />
       </p>
       <p align="center"><sub>CSS · Vencord · Theming · Auto-update</sub></p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🌐 notvictornw-site</h3>
-      <p align="center">Meu site pessoal / portfólio em desenvolvimento. Ponto central para mostrar projetos, escrever sobre o que construo e servir como presença online.</p>
+      <h3 align="center">🌐 <a href="https://notvictornw.qzz.io">notvictornw-site</a></h3>
+      <p align="center">Plataforma full-stack para criadores de conteúdo — hub de streaming Twitch + comunidade Discord com torneios, times, jogadores, agendamentos, clipes, votações, conquistas, badges, doações (LivePix), multi-tenant, admin dashboard e blog (MDX). Auth via Discord, Google e passkey.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Status-In_Development-FACC15?style=flat-square&logo=github&logoColor=09090B" alt="Status" />
-        <img src="https://img.shields.io/badge/Type-Portfolio-8B5CF6?style=flat-square&logoColor=white" alt="Type" />
+        <img src="https://img.shields.io/badge/Type-Creator_Platform-8B5CF6?style=flat-square&logoColor=white" alt="Type" />
         <img src="https://img.shields.io/badge/Visibility-Private-EF4444?style=flat-square&logoColor=white" alt="Visibility" />
       </p>
-      <p align="center"><sub>Frontend · Personal Brand · WIP</sub></p>
+      <p align="center"><sub>Next.js 16 · React 19 · TypeScript · better-auth · PostgreSQL · Redis · Twitch · LivePix</sub></p>
     </td>
   </tr>
   <tr>
