@@ -1,14 +1,14 @@
 <!-- @notvictornw | Dark Cyberpunk README -->
-<!-- Cores: #09090B fundo | #00E5FF ciano neon | #8B5CF6 roxo neon | #FAFAFA texto -->
+<!-- Cores: #09090B fundo | #DD2FF2→#F98CC8 gradiente roxo→rosa (nick) | #8B5CF6 roxo (badges) | #FAFAFA texto -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00E5FF&center=true&vCenter=true&width=720&lines=VictorNW;Building+scalable+systems;Automation+over+manual;Turning+ideas+into+products;Scale+%3E+Manual" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&center=true&vCenter=true&width=720&lines=VictorNW;Building+scalable+systems;Automation+over+manual;Turning+ideas+into+products;Scale+%3E+Manual&color=DD2FF2&gradient=DD2FF2,F98CC8,D14FC0" alt="Typing SVG" />
 
 &nbsp;
 
-<img src="https://komarev.com/ghpvc/?username=notvictornw&color=00E5FF&style=for-the-badge&label=VISITORS" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/notvictornw?style=for-the-badge&color=09090B&logoColor=00E5FF&labelColor=111827&label=Followers" alt="Followers" />
+<img src="https://komarev.com/ghpvc/?username=notvictornw&color=8B5CF6&style=for-the-badge&label=VISITORS" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/notvictornw?style=for-the-badge&color=8B5CF6&logoColor=FFFFFF&labelColor=111827&label=Followers" alt="Followers" />
 
 </div>
 
