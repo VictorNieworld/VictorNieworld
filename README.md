@@ -1,14 +1,14 @@
 <!-- @notvictornw | Dark Cyberpunk README -->
-<!-- Cores: #09090B fundo | #DD2FF2→#F98CC8 gradiente roxo→rosa (nick) | #8B5CF6 roxo (badges) | #FAFAFA texto -->
+<!-- Cores: #09090B fundo | #00E5FF→#8B5CF6→#DD2FF2 gradiente ciano→roxo→magenta (nick) | #00E5FF ciano (badges) | #FAFAFA texto -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&center=true&vCenter=true&width=720&lines=VictorNW;Building+scalable+systems;Automation+over+manual;Turning+ideas+into+products;Scale+%3E+Manual&color=DD2FF2&gradient=DD2FF2,F98CC8,D14FC0" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&center=true&vCenter=true&width=720&lines=NotVictorNW;Code.+Stream.+Create.+Repeat.;Where+gaming+meets+engineering;Building+tools+for+creators;Gamer+by+night+%E2%80%A2+Dev+by+design&color=00E5FF&gradient=00E5FF,8B5CF6,DD2FF2" alt="Typing SVG" />
 
 &nbsp;
 
-<img src="https://komarev.com/ghpvc/?username=notvictornw&color=8B5CF6&style=for-the-badge&label=VISITORS" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/notvictornw?style=for-the-badge&color=8B5CF6&logoColor=FFFFFF&labelColor=111827&label=Followers" alt="Followers" />
+<img src="https://komarev.com/ghpvc/?username=notvictornw&color=00E5FF&style=for-the-badge&label=VISITORS" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/notvictornw?style=for-the-badge&color=00E5FF&logoColor=FFFFFF&labelColor=111827&label=Followers" alt="Followers" />
 
 </div>
 
@@ -73,7 +73,7 @@ Backend-focused developer building automation systems for Discord communities an
           <img src="https://img.shields.io/badge/Status-Live-22C55E?style=flat-square&logo=github&logoColor=white" alt="Status" />
         </a>
         <a href="https://github.com/notvictornw/Equicord-Themes">
-          <img src="https://img.shields.io/badge/Repo-Equicord_Themes-8B5CF6?style=flat-square&logo=github&logoColor=white" alt="Repo" />
+          <img src="https://img.shields.io/badge/Repo-Equicord_Themes-DD2FF2?style=flat-square&logo=github&logoColor=white" alt="Repo" />
         </a>
         <img src="https://img.shields.io/badge/Visibility-Public-22C55E?style=flat-square&logoColor=white" alt="Visibility" />
       </p>
@@ -84,7 +84,7 @@ Backend-focused developer building automation systems for Discord communities an
       <p align="center">Plataforma full-stack para criadores de conteúdo — hub de streaming Twitch + comunidade Discord com torneios, times, jogadores, agendamentos, clipes, votações, conquistas, badges, doações (LivePix), multi-tenant, admin dashboard e blog (MDX). Auth via Discord, Google e passkey.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Status-In_Development-FACC15?style=flat-square&logo=github&logoColor=09090B" alt="Status" />
-        <img src="https://img.shields.io/badge/Type-Creator_Platform-8B5CF6?style=flat-square&logoColor=white" alt="Type" />
+        <img src="https://img.shields.io/badge/Type-Creator_Platform-DD2FF2?style=flat-square&logoColor=white" alt="Type" />
         <img src="https://img.shields.io/badge/Visibility-Private-EF4444?style=flat-square&logoColor=white" alt="Visibility" />
       </p>
       <p align="center"><sub>Next.js 16 · React 19 · TypeScript · better-auth · PostgreSQL · Redis · Twitch · LivePix</sub></p>
